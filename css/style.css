@@ -1,0 +1,52 @@
+body {
+    background-color: LightCyan;
+}
+
+
+header {
+    margin: 20px;
+    padding: 20px;
+    background-color:MidnightBlue;
+    color: snow;
+    text-align: center;
+}
+
+nav a {
+    color: snow;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h2 {
+    text-align: center;
+}
+
+.intro{
+    font-size: 18px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#domestic {
+    text-align: center;
+}
+
+footer {
+    background-color: lightPink;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+footer a {
+    color: black;
+}
